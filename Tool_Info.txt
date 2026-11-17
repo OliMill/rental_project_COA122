@@ -1,0 +1,6 @@
+ID,Name,Size,PurchasePrice,PurchaseDate
+1,Toolbox,Small,20,2026-08-01
+2,Bulldozer,Large,3000,2026-08-02
+3,Stump Grinder,Medium,1000,2026-08-03 
+
+
